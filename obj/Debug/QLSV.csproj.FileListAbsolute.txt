@@ -1,0 +1,141 @@
+D:\Code Winform\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\Code Winform\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\Code Winform\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Code Winform\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Code Winform\QLSV\bin\Debug\QLSV.exe.config
+D:\Code Winform\QLSV\bin\Debug\QLSV.exe
+D:\Code Winform\QLSV\bin\Debug\QLSV.pdb
+D:\Code Winform\QLSV\bin\Debug\System.Data.SqlClient.dll
+D:\Code Winform\QLSV\bin\Debug\System.Data.SqlClient.xml
+D:\Code Winform\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+D:\Code Winform\QLSV\obj\Debug\QLSV.exe
+D:\Code Winform\QLSV\obj\Debug\QLSV.pdb
+D:\Code Winform\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.StatisticForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.find_Form.resources
+D:\Code Winform\QLSV\bin\Debug\AForge.dll
+D:\Code Winform\QLSV\bin\Debug\AForge.Imaging.dll
+D:\Code Winform\QLSV\bin\Debug\AForge.Math.dll
+D:\Code Winform\QLSV\bin\Debug\AForge.Video.DirectShow.dll
+D:\Code Winform\QLSV\bin\Debug\AForge.Video.dll
+D:\Code Winform\QLSV\bin\Debug\AForge.xml
+D:\Code Winform\QLSV\bin\Debug\AForge.Imaging.xml
+D:\Code Winform\QLSV\bin\Debug\AForge.Math.xml
+D:\Code Winform\QLSV\bin\Debug\AForge.Video.xml
+D:\Code Winform\QLSV\bin\Debug\AForge.Video.DirectShow.xml
+D:\Code Winform\QLSV\obj\Debug\QLSV.PrintForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.AddCourseForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.EditCourseForm.resources
+D:\Code Winform\QLSV\obj\Debug\QLSV.RemoveCourseForm.resources
+D:\Code Winform\QLSV\bin\Debug\BouncyCastle.Crypto.dll
+D:\Code Winform\QLSV\bin\Debug\itextsharp.dll
+D:\Code Winform\QLSV\bin\Debug\itextsharp.xml
+D:\Code Winform\QLSV\obj\Debug\QLSV.NewFolder1.Register.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\QLSV.exe.config
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\QLSV.exe
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\QLSV.pdb
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Imaging.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Math.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Video.DirectShow.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Video.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\BouncyCastle.Crypto.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\itextsharp.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\System.Data.SqlClient.dll
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Imaging.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Math.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Video.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\AForge.Video.DirectShow.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\itextsharp.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\bin\Debug\System.Data.SqlClient.xml
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.NewFolder1.Register.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.AddCourseForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.EditCourseForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.find_Form.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.Login_Form.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.MainForm01.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.PrintForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.RemoveCourseForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.StatisticForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.exe
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.pdb
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.ManageCourseForm.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.PrintCourse.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.AddScore.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.AvgFormcs.resources
+F:\thing\Code Winform-20230425T114514Z-001\Code Winform\QLSV\obj\Debug\QLSV.RemoveScore.resources
+F:\QLSV\bin\Debug\QLSV.exe.config
+F:\QLSV\bin\Debug\QLSV.exe
+F:\QLSV\bin\Debug\QLSV.pdb
+F:\QLSV\bin\Debug\AForge.dll
+F:\QLSV\bin\Debug\AForge.Imaging.dll
+F:\QLSV\bin\Debug\AForge.Math.dll
+F:\QLSV\bin\Debug\AForge.Video.DirectShow.dll
+F:\QLSV\bin\Debug\AForge.Video.dll
+F:\QLSV\bin\Debug\BouncyCastle.Crypto.dll
+F:\QLSV\bin\Debug\itextsharp.dll
+F:\QLSV\bin\Debug\System.Data.SqlClient.dll
+F:\QLSV\bin\Debug\AForge.xml
+F:\QLSV\bin\Debug\AForge.Imaging.xml
+F:\QLSV\bin\Debug\AForge.Math.xml
+F:\QLSV\bin\Debug\AForge.Video.xml
+F:\QLSV\bin\Debug\AForge.Video.DirectShow.xml
+F:\QLSV\bin\Debug\itextsharp.xml
+F:\QLSV\bin\Debug\System.Data.SqlClient.xml
+F:\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+F:\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+F:\QLSV\obj\Debug\QLSV.ManageCourseForm.resources
+F:\QLSV\obj\Debug\QLSV.PrintCourse.resources
+F:\QLSV\obj\Debug\QLSV.AddScore.resources
+F:\QLSV\obj\Debug\QLSV.AvgFormcs.resources
+F:\QLSV\obj\Debug\QLSV.RemoveScore.resources
+F:\QLSV\obj\Debug\QLSV.NewFolder1.Register.resources
+F:\QLSV\obj\Debug\QLSV.AddCourseForm.resources
+F:\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+F:\QLSV\obj\Debug\QLSV.EditCourseForm.resources
+F:\QLSV\obj\Debug\QLSV.find_Form.resources
+F:\QLSV\obj\Debug\QLSV.Login_Form.resources
+F:\QLSV\obj\Debug\QLSV.MainForm01.resources
+F:\QLSV\obj\Debug\QLSV.PrintForm.resources
+F:\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+F:\QLSV\obj\Debug\QLSV.RemoveCourseForm.resources
+F:\QLSV\obj\Debug\QLSV.StatisticForm.resources
+F:\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+F:\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+F:\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+F:\QLSV\obj\Debug\QLSV.csproj.CopyComplete
+F:\QLSV\obj\Debug\QLSV.exe
+F:\QLSV\obj\Debug\QLSV.pdb
+F:\QLSV\obj\Debug\QLSV.ForgotPassword.resources
+F:\QLSV\obj\Debug\QLSV.ManageScore.resources
+F:\QLSV\obj\Debug\QLSV.ChangePassword.resources
+F:\QLSV\obj\Debug\QLSV.MainForm2.resources
+F:\QLSV\obj\Debug\QLSV.ManageUser.resources
+F:\QLSV\obj\Debug\QLSV.score.PrintScore.resources
+F:\QLSV\obj\Debug\QLSV.Result.resources
+F:\QLSV\obj\Debug\QLSV.add_course_form.resources
+F:\QLSV\obj\Debug\QLSV.AVGScorebyCourse.resources
+F:\QLSV\obj\Debug\QLSV.ManageHRUser.resources
+F:\QLSV\obj\Debug\QLSV.ChangePassHR.resources
+F:\QLSV\obj\Debug\QLSV.HRForgotPassword.resources
+F:\QLSV\obj\Debug\QLSV.HRRegister.resources
+F:\QLSV\obj\Debug\QLSV.AddContact.resources
+F:\QLSV\obj\Debug\QLSV.Contact_and_Group.resources
+F:\QLSV\obj\Debug\QLSV.EditContact.resources
+F:\QLSV\obj\Debug\QLSV.EditHRUser.resources
+F:\QLSV\obj\Debug\QLSV.SelectContact.resources
+F:\QLSV\obj\Debug\QLSV.ShowFull.resources
+F:\QLSV\obj\Debug\QLSV.StudentList.resources
